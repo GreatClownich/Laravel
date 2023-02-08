@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(12, 167, 40);
+    }
+    table, th, tr, td{
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid rgb(72, 20, 74);
+    background-color: rgb(0, 119, 143);
+    }
